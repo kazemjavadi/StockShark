@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Brain\Base\AI\" />
+    <Folder Include="Brain\Base\Fundamental\" />
+    <Folder Include="Brain\Implementation\AI\ML\" />
+    <Folder Include="Brain\Implementation\Fundamental\" />
+  </ItemGroup>
+
+</Project>

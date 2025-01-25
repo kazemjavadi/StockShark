@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockShark.Contracts\StockShark.Contracts.csproj" />
+    <ProjectReference Include="..\StockShark.Helper\StockShark.Helper.csproj" />
+  </ItemGroup>
+
+</Project>
